@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Autism spectrum disorder ASD Detection using Deep Learning</h1>
+<h1 align="center">Autism spectrum disorder Detection using Deep Learning</h1>
 
 
 ## Run it now
